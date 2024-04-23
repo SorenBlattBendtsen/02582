@@ -1,1 +1,3 @@
-data/
+data/dataset/
+data/.DS_Store
+__MACOSX/
